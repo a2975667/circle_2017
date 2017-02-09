@@ -1,0 +1,21 @@
+installation
+
+mac/windows
+    download and install form website
+    run conda --v
+        if not found, add to PATH
+    conda update conda
+        press y
+    check python vresion python --version
+        if 3.x then ok
+    if not run 
+        conda update --all python=3.5
+        press y when prompted
+
+** watchout for path variables settings **
+
+linux run shell script to confirm
+
+commandline crash course can teach grep, pipe, cat, >
+
+

@@ -1,0 +1,318 @@
+{'title': '超圖解 金融大入門', 'publisher': '楓書坊', 'author': '伊藤亮太', 'price': '221'}
+{'title': '矩陣存股 打造現金流(附DVD)', 'publisher': 'Smart智富', 'author': '雷浩斯', 'price': '695'}
+{'title': '不失禮的技術：國際禮儀大師╳麗芙泰勒給職場人士的6堂成功形象必修課', 'publisher': '商業周刊', 'author': '桃樂希雅‧強森,麗芙‧泰勒', 'price': '284'}
+{'title': '讓你說話更有趣的40個技巧：日本說話大師教你這樣說，克服緊張害羞，報告、提案、閒聊，一開口就具有感染力!', 'publisher': '核果文化', 'author': '櫻井弘', 'price': '237'}
+{'title': '經濟學難不倒我：輕鬆看圖就會了!', 'publisher': '有意思', 'author': '王嶸', 'price': '288'}
+{'title': '給論文寫作者的統計指南：傻瓜也會跑統計(2版)', 'publisher': '五南', 'author': '鄭中平,顏志龍', 'price': '551'}
+{'title': 'AMAZON行銷經理的獨門銷售祕訣：用4個問題，讓9成客人選擇你的商品', 'publisher': '台灣東販', 'author': '理央周', 'price': '205'}
+{'title': '故事行銷力：創造品牌差異化、讓顧客永久買單的祕訣', 'publisher': '台灣東販', 'author': '岩井琢磨,牧口松二', 'price': '221'}
+{'title': '東大醫師教你如何提高專注力', 'publisher': '台灣東販', 'author': '森田敏宏', 'price': '221'}
+{'title': '真是夠了!：職場、生活太無力，每天來點正能量!', 'publisher': '台灣東販', 'author': '斎藤茂太', 'price': '198'}
+{'title': '踩在發明大師的肩上 用三個問題訓練你的創意思維', 'publisher': '台灣東販', 'author': '三原康司', 'price': '205'}
+{'title': '從教師到網路教父：馬雲創業的瘋狂故事', 'publisher': '有意思', 'author': '朱乘堯', 'price': '252'}
+{'title': '圖解統計學', 'publisher': '五南', 'author': '許玟斌', 'price': '237'}
+{'title': '真想立刻去上班：悠遊職場16式(2版)', 'publisher': '書泉', 'author': '晉麗明', 'price': '221'}
+{'title': '1秒鐘的用心之道：ANA教你用37個小技巧改變職場&人際關係', 'publisher': '台灣角川', 'author': 'ANA商務解決顧問公司', 'price': '205'}
+{'title': 'TOYOTA職場教戰手冊：改變職場眾生的最強工作術', 'publisher': '台灣角川', 'author': 'OJT Solutions 股份有限公司', 'price': '315'}
+{'title': '一行家計簿：浪費開銷銳減!不知不覺月省上萬元的魔法擠錢術', 'publisher': '商周出版', 'author': '天野伴', 'price': '221'}
+{'title': '小數據獵人：發現大數據看不見的小細節，從消費欲望到行為分析，創造品牌商機', 'publisher': '寶鼎', 'author': '馬汀．林斯壯', 'price': '332'}
+{'title': '人人都能學會存股(全圖解)', 'publisher': 'Smart智富', 'author': '智富編輯部', 'price': '197'}
+{'title': '不輸的力量：世界史的成功戰略，23位歷史指標人物引領你攻克名為「人生」的戰鬥', 'publisher': '大牌出版', 'author': '神野正史', 'price': '300'}
+{'title': '創業之國以色列：教育思維X兵役制度X移民政策X創投計畫，打造建國七十年成長50倍的經濟奇蹟', 'publisher': '木馬文化', 'author': '丹恩‧席諾,掃羅‧辛格', 'price': '277'}
+{'title': '網紅自媒體時代，企畫力才是王道：人氣鬼才編劇親授!22個超強提案+55招關鍵策略，從發想到執行，實戰技法完全公開，打造絕對會被採用的熱門企畫和未來人才必備的競爭力', 'publisher': '奇光出版', 'author': '鈴木收', 'price': '269'}
+{'title': '歷史的個性：《史記》教你「勝敗不是兵家常事」，個性才能決定命運', 'publisher': '野人', 'author': '扶欄客', 'price': '316'}
+{'title': '中國金融行業：關鍵內情和入職指南', 'publisher': '全球防務', 'author': '金融小夥伴', 'price': '537'}
+{'title': '玩賺金邊：史上第一本金邊玩樂MAX投資指南(全彩)', 'publisher': '渠成文化', 'author': '葉斯博', 'price': '300'}
+{'title': '英語面試實戰準備工作書：Gotcha!祕密與制勝策略(1書 + 附冊)', 'publisher': '貝塔', 'author': '慶凱文', 'price': '284'}
+{'title': '職場裡的童話法則：35個跨越逆境的邏輯思維', 'publisher': '時報出版', 'author': '上阪徹', 'price': '237'}
+{'title': '水滸傳教你職場生存術(改版)', 'publisher': '商周出版', 'author': '公孫策', 'price': '253'}
+{'title': '阿里巴巴：物流、電商、雙11，馬雲改變13億人的生活方式', 'publisher': '聯經出版公司', 'author': '鄧肯‧克拉克', 'price': '284'}
+{'title': '猶太致富商經智慧枕邊書', 'publisher': '金文堂', 'author': '李燕軍', 'price': '267'}
+{'title': '所有做投資的人都應該要讀哲學：臺大最受歡迎哲學家──苑舉正的《苑文其詳》', 'publisher': '法意', 'author': '苑舉正', 'price': '356'}
+{'title': '莫扎特如何帶領 歐普拉及賈伯斯組成的團隊：啟動全腦思維，最大化組織優勢', 'publisher': '美商麥格羅‧希爾', 'author': '奈德．赫曼,安．赫曼─納迪', 'price': '379'}
+{'title': '諾貝爾大師的世界觀', 'publisher': '天下文化', 'author': '蔡進發/編', 'price': '300'}
+{'title': '職場八字識人術：三分鐘看懂.教你如何招貴人防小人【附別冊：八字評分表】', 'publisher': '深思文化', 'author': '周雨薇,李品心,江幸芬,黃冠寰', 'price': '300'}
+{'title': '如何利用網路致富互聯網+：投資與理財', 'publisher': '風雲時代', 'author': '江清萍', 'price': '269'}
+{'title': '等等!先聽經濟學家怎麼說：更聰明地交友、消費、求職、過生活', 'publisher': '有意思', 'author': '關晶奇', 'price': '252'}
+{'title': '10個溫州商人，9個富：共好、草根、積沙成塔，解密溫商的致富心法', 'publisher': '有意思', 'author': '陳根/主編', 'price': '252'}
+{'title': '師徒關係與社會創新的在地實踐：賴青松和黃聲遠', 'publisher': '遠流', 'author': '吳靜吉,朱思年,游銘仁,陳蕙芬', 'price': '300'}
+{'title': '給領導者的12堂必修課：管人就是管欲望，帶人則是帶信心', 'publisher': '達觀', 'author': '劉川鋒', 'price': '277'}
+{'title': '國際財務管理(二版)', 'publisher': '新陸書局', 'author': '徐俊明,黃原桂', 'price': '589'}
+{'title': '黃金公主的原物料投資筆記：頂尖基金經理人首次公開原物料投資最佳法則', 'publisher': '財經傳訊', 'author': '蕭若梅', 'price': '221'}
+{'title': '法拍屋實戰寶典：法拍教父黃正雄教你投資法拍賺千萬', 'publisher': '布克文化', 'author': '黃正雄', 'price': '300'}
+{'title': '謝謝你遲到了：一個樂觀主義者在加速時代的繁榮指引', 'publisher': '天下文化', 'author': '湯馬斯‧佛里曼', 'price': '474'}
+{'title': '創客創業導師程天縱的經營學：翻轉企業經營與創業困境的32個創見', 'publisher': '商周出版', 'author': '程天縱', 'price': '300'}
+{'title': '大腦當家(最新增訂版)：12個讓大腦靈活的守則，工作學習都輕鬆有效率', 'publisher': '遠流', 'author': 'John J. Medina', 'price': '253'}
+{'title': '今天，你Uber了嗎?：卡蘭尼克的移動革命惹火了誰?', 'publisher': '好優文化', 'author': '丁瑞瓊', 'price': '253'}
+{'title': '2017年全球經濟展望：不平庸思維 跨越新平庸時代', 'publisher': '中華經濟研究院', 'author': '彭素玲/主編', 'price': '395'}
+{'title': '網站行銷一定要懂的 Landing Page 設計事典', 'publisher': '旗標', 'author': 'POSTSCAPE Inc.', 'price': '428'}
+{'title': '再見，拖懶慢!：心理學家教你78種戒掉職場壞習慣的科學處方', 'publisher': '漫遊者文化', 'author': '佐佐木正悟', 'price': '253'}
+{'title': '循環經濟', 'publisher': '天下雜誌', 'author': '黃育徵', 'price': '277'}
+{'title': '漫畫 新世紀孫子兵法：孫子式戰略思考，史上最強「謀勝」教科書', 'publisher': '大牌出版', 'author': '星井博文/編劇,長尾一洋/著', 'price': '237'}
+{'title': '金牌店員內部培訓手冊', 'publisher': '憲業', 'author': '陳宇梓,黃憲仁', 'price': '332'}
+{'title': '咖啡師 生存之道：20家咖啡館、28位咖啡師的奮鬥故事，期望與有志成為咖啡師的你，共同完成夢想。', 'publisher': '瑞昇', 'author': '旭屋出版編輯部/編著', 'price': '277'}
+{'title': '30歲代表了什麼：窮人與富人的距離0.05mm(2017版)', 'publisher': '海鴿', 'author': '張禮文', 'price': '221'}
+{'title': '暢銷書作家是怎樣煉成的?：全國唯一「寫書與出版實務班」專用講義', 'publisher': '典藏閣', 'author': '王擎天', 'price': '356'}
+{'title': '異常流行幻象與群眾瘋狂(二版)', 'publisher': '大牌出版', 'author': '查爾斯．麥凱', 'price': '458'}
+{'title': '平民首富的致富告白：登上富人榜的90個魔法心態', 'publisher': '李茲文化', 'author': '齋藤一人', 'price': '237'}
+{'title': '借力與整合的秘密', 'publisher': '創見文化', 'author': '王擎天', 'price': '277'}
+{'title': '5個選擇：不被瑣事纏身，每天都有高效生產力', 'publisher': '天下文化', 'author': '寇岡,林恩,梅瑞爾', 'price': '284'}
+{'title': '基金革命', 'publisher': '商訊', 'author': '劉宗聖,黃漢昌', 'price': '237'}
+{'title': '釋放你的個人魅力', 'publisher': '魅力國際企業有限公司', 'author': '馮安強', 'price': '379'}
+{'title': '航向成功企業的55種商業模式：是什麼?為什麼?誰在用?何時用?如何用?', 'publisher': '橡實文化', 'author': '凱洛琳・弗朗根柏格,奧利佛・葛思曼,蜜可萊・塞克', 'price': '435'}
+{'title': '股素人、卡小孜的收租股總覽①：好存股一把抓，3~5年賺100%', 'publisher': '大樂文化', 'author': '卡小孜,股素人', 'price': '277'}
+{'title': '塑造嶄新的國際社會：探索二十一世紀的和平、經濟與教育', 'publisher': '香港中文大學', 'author': '劉遵義,池田大作', 'price': '375'}
+{'title': '海外從商記', 'publisher': '香港中文大學', 'author': '康本健守', 'price': '336'}
+{'title': '物聯網金融商機', 'publisher': '財團法人台灣金融研訓院', 'author': '陳瑞陽', 'price': '357'}
+{'title': '玄學理財術：理財觀念與運勢推算', 'publisher': '財團法人台灣金融研訓院', 'author': '邱士林', 'price': '213'}
+{'title': '勝率73.45%!一天就學會的五步驟選股法', 'publisher': '橙實文化', 'author': '艾致富', 'price': '269'}
+{'title': '金錢之王：謝清海的價值人生', 'publisher': '天窗出版社有限公司', 'author': '蔡東豪', 'price': '458'}
+{'title': '只要有趣就夠了!發行累計6000萬冊：編輯工作目錄', 'publisher': '台灣角川', 'author': '三木一馬', 'price': '205'}
+{'title': '美麗的限制：為何嶄新的商業想像，常來自匱乏的條件下?', 'publisher': '大寫出版', 'author': '亞當．摩根,馬克．巴登', 'price': '395'}
+{'title': 'VR大衝擊：虛擬實境即將攻占社交、影音、遊戲、電商……你如何贏在先機?', 'publisher': '商業周刊', 'author': '新清士', 'price': '237'}
+{'title': '認識很多人還不夠，留住很多朋友才是關鍵!', 'publisher': '商周出版', 'author': '金大植', 'price': '221'}
+{'title': '僕人的領導思維：建立關係、堅持理念、與人性關懷的藝術', 'publisher': '經濟新潮社', 'author': '麥克斯．帝普雷', 'price': '237'}
+{'title': '談判', 'publisher': '新BOOKHOUSE', 'author': '林鋒伯', 'price': '198'}
+{'title': '富爸爸富小孩：給你的孩子理財頭腦', 'publisher': '高寶', 'author': '羅勃特‧T‧清崎', 'price': '284'}
+{'title': '不這樣賣，會成功才怪', 'publisher': '三文印書', 'author': '臧正民', 'price': '216'}
+{'title': '走一條利他的路：徐重仁的9堂共好見學課', 'publisher': '寫樂文化', 'author': '徐重仁/作,王家英/文字整理', 'price': '316'}
+{'title': 'MIT‧哈佛教你 決斷的科學：學會9方法，讓行動100%成功!', 'publisher': '大樂文化', 'author': '內田隆', 'price': '221'}
+{'title': '索羅斯的投資哲學', 'publisher': '法意', 'author': '苑舉正', 'price': '474'}
+{'title': '外資銀行中國業務實務系列 5：授信風險‧新外債‧FT帳戶', 'publisher': '聯經出版公司', 'author': '台資銀行大陸從業人員交流協會,富蘭德林證券股份有限公司', 'price': '300'}
+{'title': '與小人共處(Take A Break 30分鐘高效能)', 'publisher': '商周出版', 'author': '姬特．赫爾特', 'price': '174'}
+{'title': '觀念：許文龍和他的奇美王國', 'publisher': '商周出版', 'author': '黃越宏', 'price': '269'}
+{'title': '從卡關中翻身：45則勵志故事翻轉人生窘境，菜鳥、老鳥不可不知的職場破關指南!', 'publisher': '麥田', 'author': '吳家德', 'price': '253'}
+{'title': '安靜的力量，從小就看得見', 'publisher': '商周出版', 'author': '蘇珊‧坎恩', 'price': '253'}
+{'title': '幸福競爭力', 'publisher': '布克文化', 'author': '黃佳興', 'price': '237'}
+{'title': '擊敗群眾的逆向思維：肯恩.費雪教你看懂市場真相', 'publisher': '寰宇', 'author': '伊莉莎白．迪琳格,肯恩．費雪', 'price': '405'}
+{'title': '2016年連鎖加盟總部特刊', 'publisher': '流通快訊雜誌社', 'author': '流通快訊雜誌社編輯部', 'price': '288'}
+{'title': '維新變身術2：逆風飛翔中的傳產故事', 'publisher': '墨刻', 'author': '墨刻編輯部,經濟部工業局', 'price': '253'}
+{'title': '自闖經濟學：25位創意工作者拿點子賺自由，教你將創意變事業', 'publisher': '寶鼎', 'author': '傑森・歐博霍澤', 'price': '253'}
+{'title': '教授的影子 學歷無用論：教育不能取代堅持 這世上充斥著有學問的遊民', 'publisher': '經史子集', 'author': '錢思樂', 'price': '360'}
+{'title': '有這五件事 你一定完蛋：其實沒有人瞧不起你 因為別人根本就沒有瞧你', 'publisher': '經史子集', 'author': '李奇', 'price': '360'}
+{'title': '哈佛大學外第八種幸福：為何人被不可知的力量 推向他未曾預料的結局', 'publisher': '經史子集', 'author': '李奇', 'price': '360'}
+{'title': '百萬富翁的第六種人生：該說的都已說過 但因沒人在聽 所以還得全部再說一遍', 'publisher': '經史子集', 'author': '李奇', 'price': '360'}
+{'title': '悲慘世界中有美麗人生：我的心曾悲傷七次 我曾經七次鄙視自己的靈魂', 'publisher': '經史子集', 'author': '李奇', 'price': '360'}
+{'title': '微熱山丘K線起漲：天下普通人都敗於一懶字 古今聰明人都敗於一傲字', 'publisher': '經史子集', 'author': '錢思樂', 'price': '450'}
+{'title': '小型股點石成金14步：先找到客戶群再創業 技術一流自有現金流', 'publisher': '經史子集', 'author': '錢思樂', 'price': '450'}
+{'title': '賺錢聖經塔木德：利用別人砸過來的磚塊 來建構一個堅固的堡壘', 'publisher': '經史子集', 'author': '納斯', 'price': '450'}
+{'title': '蜜蜂與蒼蠅 經驗無用論：看書是從頭到尾 經營卻是相反 你得從終點開始做', 'publisher': '經史子集', 'author': '錢思樂', 'price': '360'}
+{'title': '不能違背的兩點鐘規則：龐氏騙局的思維不改變 貧窮困苦不會自己改變', 'publisher': '經史子集', 'author': '赫夫曼', 'price': '360'}
+{'title': '你持有聰明錢?還是笨傻錢?：愈難賣的東西愈需要故事 市場的各個角落都有故事', 'publisher': '經史子集', 'author': '赫夫曼', 'price': '360'}
+{'title': '五種天上掉下黃金的SOP：男人最怕沒錢被女人看不起 女人最愛男人有暴發戶神威', 'publisher': '經史子集', 'author': '赫夫曼', 'price': '360'}
+{'title': '搶賺中間財 搶購最終財：智者樂立其功 勇者好行其志 貪者決取其利 愚者不愛其死', 'publisher': '經史子集', 'author': '魯比歐', 'price': '360'}
+{'title': 'K線阿拉丁神燈41盤：短勝不如長勝 長勝不如永勝 永勝就是穩賺不賠', 'publisher': '經史子集', 'author': '魯比歐', 'price': '360'}
+{'title': '塔木德第二哩路才賺：我們藉由得到的維持生活 我們藉由付出的創造生活', 'publisher': '經史子集', 'author': '艾里斯', 'price': '360'}
+{'title': '塔木德第三條修練：知道是不夠的 我們必需運用 希望是不夠的 我們必需行動', 'publisher': '經史子集', 'author': '哥爾頓', 'price': '360'}
+{'title': '塔木德第四黃金律：不要成為一時成功的人 要成為永遠有價值的人', 'publisher': '經史子集', 'author': '華特曼', 'price': '360'}
+{'title': '世界三大奇書 智慧書：成功是虛榮的名師 她會引誘過度擴張與自信不敗', 'publisher': '經史子集', 'author': '錢思樂', 'price': '360'}
+{'title': '價值投資聖經 影子：聖經投放光明 現金投放溫暖 支票投放繩索', 'publisher': '經史子集', 'author': '錢思樂', 'price': '585'}
+{'title': '主動式收入 被動式收入 其中有詐：真實的女孩不完美 完美的女孩不真實', 'publisher': '經史子集', 'author': '錢思樂', 'price': '450'}
+{'title': '第18種賺錢方程式：我們欲望中的標第物 我們很快就信以為真', 'publisher': '經史子集', 'author': '錢思樂', 'price': '360'}
+{'title': '第1031號大富翁筆記本：財富的侏儒如何變成巨人?人生有三樣東西不可挽回', 'publisher': '經史子集', 'author': '魯比歐', 'price': '360'}
+{'title': 'K線此地錢多人傻速來：世界上最貴的線是K線 世界上最貴的蛋是臉蛋', 'publisher': '經史子集', 'author': '魯比歐', 'price': '360'}
+{'title': 'K線有錢人終成眷屬：沒錢人變成天使 有情人難有歸屬 無情人尋求所屬', 'publisher': '經史子集', 'author': '魯比歐', 'price': '360'}
+{'title': '何飛鵬自慢1-10「十年十書」全系列套書：修煉正確的心性，擁有自慢的絕活，成就最好的自己', 'publisher': '商周出版', 'author': '何飛鵬', 'price': '2650'}
+{'title': '多面英雄凱因斯：史上第一個明星經濟學家的七幕不凡人生', 'publisher': '大寫出版', 'author': '理查‧戴文波特─海恩斯', 'price': '300'}
+{'title': '走出去創業：臺灣青年在中國大陸的創業故事', 'publisher': '獵海人', 'author': '深圳市育山科技協會', 'price': '316'}
+{'title': '自慢10：18項修煉', 'publisher': '商周出版', 'author': '何飛鵬', 'price': '284'}
+{'title': 'K線圖大趨勢小轉折：執行長會賺錢就會賺錢 不必揚言力拼轉虧為盈', 'publisher': '經史子集', 'author': '赫夫曼', 'price': '450'}
+{'title': '數學考10分，也能學會財務報表：【全圖解】3張表格×5個重點，輕鬆看數字，剖析一家公司的賺與賠!', 'publisher': '核果文化', 'author': '國貞克則', 'price': '237'}
+{'title': '誰都看得懂的統計學超圖解', 'publisher': '楓葉社文化', 'author': '涌井良幸,涌井貞美', 'price': '300'}
+{'title': '好旅館默默在做的事：設計大師眼中最關鍵的37個條件', 'publisher': '商業周刊', 'author': '張智強', 'price': '356'}
+{'title': '臺灣經營之神王永慶', 'publisher': '布拉格文創社', 'author': '唐雙根', 'price': '270'}
+{'title': '縱橫商場‧華人首富李嘉誠', 'publisher': '華文鼎文化', 'author': '高樓', 'price': '252'}
+{'title': '說話訓練班：說對話的影響力', 'publisher': '大拓文化', 'author': '徐振遠/編著', 'price': '225'}
+{'title': '頂尖公關人員的10堂致勝課', 'publisher': '菁品文化', 'author': '劉義才', 'price': '288'}
+{'title': '天規：社會走跳不可不知的24個生存定律', 'publisher': '菁品文化', 'author': '蘇豫', 'price': '288'}
+{'title': '不做白工的勇氣!：就是比你早下班的整理術 完全圖解手冊', 'publisher': '好的文化', 'author': 'Liberal社編輯部', 'price': '253'}
+{'title': '財經專家呂忠達教你跟著國際政經趨勢賺(上)DVD', 'publisher': 'Smart智富', 'author': '呂忠達', 'price': '695'}
+{'title': '財經專家呂忠達教你跟著國際政經趨勢賺(下)DVD', 'publisher': 'Smart智富', 'author': '呂忠達', 'price': '695'}
+{'title': '掌生香 台中糕餅款款行：厚工 厚禮數 好呷 好等路 烘焙幸福 百年甘味', 'publisher': '天下雜誌', 'author': '李佳芳', 'price': '342'}
+{'title': '不受限的工作人生：建立職涯存摺，經營4項投資，打造不畏時局變遷的本事', 'publisher': '天下雜誌', 'author': '喬恩‧阿考夫', 'price': '284'}
+{'title': '企業契約應用範例1商務契約', 'publisher': '智囊團', 'author': '智囊團顧問股份有限公司', 'price': '720'}
+{'title': '企業規章應用範例4銷售管理', 'publisher': '智囊團', 'author': '智囊團顧問股份有限公司', 'price': '900'}
+{'title': '企業規章應用範例5工廠管理', 'publisher': '智囊團', 'author': '智囊團顧問股份有限公司', 'price': '900'}
+{'title': '企業規章應用範例6旅館管理', 'publisher': '智囊團', 'author': '智囊團顧問股份有限公司', 'price': '900'}
+{'title': 'ISO 9001應用範例1品質系統上', 'publisher': '智囊團', 'author': '智囊團顧問股份有限公司', 'price': '1080'}
+{'title': '企業書信應用範例1商務書信', 'publisher': '智囊團', 'author': '智囊團顧問股份有限公司', 'price': '720'}
+{'title': '公開發行應用範例 1會計制度', 'publisher': '智囊團', 'author': '智囊團顧問股份有限公司', 'price': '1080'}
+{'title': 'ISO 9001應用範例2品質系統中', 'publisher': '智囊團', 'author': '智囊團顧問股份有限公司', 'price': '1080'}
+{'title': '公開發行應用範例 2 內控制度', 'publisher': '智囊團', 'author': '智囊團顧問股份有限公司', 'price': '1080'}
+{'title': '企業契約應用範例2庶務契約', 'publisher': '智囊團', 'author': '智囊團顧問股份有限公司', 'price': '720'}
+{'title': 'ISO 9001應用範例3品質系統下', 'publisher': '智囊團', 'author': '智囊團顧問股份有限公司', 'price': '1080'}
+{'title': '公開發行應用範例3內稽制度', 'publisher': '智囊團', 'author': '智囊團顧問股份有限公司', 'price': '1080'}
+{'title': '企業書信應用範例2庶務書信', 'publisher': '智囊團', 'author': '智囊團顧問股份有限公司', 'price': '720'}
+{'title': '企業規章應用範例3財會管理', 'publisher': '智囊團', 'author': '智囊團顧問股份有限公司', 'price': '900'}
+{'title': '企業規章應用範例1總務管理', 'publisher': '智囊團', 'author': '智囊團顧問股份有限公司', 'price': '900'}
+{'title': '企業表單應用範例2財會銷售', 'publisher': '智囊團', 'author': '智囊團顧問股份有限公司', 'price': '900'}
+{'title': '企業表單應用範例3工廠品質', 'publisher': '智囊團', 'author': '智囊團顧問股份有限公司', 'price': '900'}
+{'title': '企業表單應用範例4旅館餐廳', 'publisher': '智囊團', 'author': '智囊團顧問股份有限公司', 'price': '900'}
+{'title': '科技與工程倫理', 'publisher': '東華', 'author': '葉文冠,葉海煙/審閱,陳德興,黃鼎元/著', 'price': '333'}
+{'title': '贏在格局，輸在心計', 'publisher': '大都會文化事業有限公司', 'author': '蘇維晨', 'price': '252'}
+{'title': '李嘉誠談做人.做事.做生意(全新修訂版)', 'publisher': '大都會文化事業有限公司', 'author': '王祥瑞', 'price': '225'}
+{'title': '坐看雲起：平民商人謝瑞麟', 'publisher': '華藝數位', 'author': '周凌楓,王向華', 'price': '342'}
+{'title': '流通管理：迎戰全通路零售時代(四版)', 'publisher': '華立圖書', 'author': '邱繼智', 'price': '540'}
+{'title': '管理學：國際化風潮', 'publisher': '華立圖書', 'author': '鄭紹成,陳鉦達,高于歡', 'price': '495'}
+{'title': '品質管制與管理(十一版)', 'publisher': '高立圖書', 'author': '潘忠煜/編著', 'price': '589'}
+{'title': '企業表單應用範例1總務人事', 'publisher': '智囊團', 'author': '智囊團顧問股份有限公司', 'price': '900'}
+{'title': '企業規章應用範例2人事管理', 'publisher': '智囊團', 'author': '智囊團顧問股份有限公司', 'price': '900'}
+{'title': '古希臘名嘴亞里斯多德的最強說話術：協商、提親、開會都好用', 'publisher': '先覺', 'author': '高橋健太郎', 'price': '198'}
+{'title': '終結平庸：哈佛最具衝擊性的潛能開發課，創造不被平均值綁架的人生', 'publisher': '先覺', 'author': '陶德‧羅斯', 'price': '237'}
+{'title': '哈佛教你掌握頂尖企業成功方程式：阿里巴巴、Google、奇異、萊雅、寶僑、松下的致勝策略', 'publisher': '哈佛商業評論全球繁體中文版', 'author': '馬丁．瑞夫斯等', 'price': '315'}
+{'title': '浪漫台三線款款行 把山種回來：18個返鄉青年的創業故事', 'publisher': '天下雜誌', 'author': '天下雜誌人文出版部', 'price': '342'}
+{'title': '照著做，提前10年享受財富自由', 'publisher': '商周出版', 'author': '吳家揚', 'price': '284'}
+{'title': '展示陳列設計聖經', 'publisher': '麥浩斯', 'author': '漂亮家居編輯部', 'price': '356'}
+{'title': '2017管理資訊系統', 'publisher': '碁峰', 'author': '朱海成', 'price': '332'}
+{'title': '艾米爾.貝科特關鍵韜略100', 'publisher': '智惠文化公司', 'author': '李燕軍', 'price': '295'}
+{'title': '巴爾幹經濟圈商機揭密：塞爾維亞、克羅埃西亞及斯洛維尼亞', 'publisher': '外貿協會', 'author': '徐裕軒', 'price': '450'}
+{'title': '解讀中國大陸智慧醫療健康商機', 'publisher': '外貿協會', 'author': '外貿協會', 'price': '450'}
+{'title': '擁有你的夢想生活行動手冊', 'publisher': '生命之光身心靈成長中心', 'author': '唐與南西‧菲拉', 'price': '270'}
+{'title': '從硬體到服務：大數據啓動智慧生活新想像', 'publisher': '拓墣科技', 'author': '拓墣產業研究所', 'price': '7600'}
+{'title': '誰都學得會的「算股」公式：成長與價值的綜效之路，新手也可以創造15%投報率', 'publisher': '財經傳訊', 'author': '葉怡成', 'price': '315'}
+{'title': '今天就把明天的事搞定：頂尖運動員與商業菁英都在用8大高效習慣力，幫你主宰時間與人生!', 'publisher': '三采', 'author': '傑森‧賽爾克,湯姆‧巴托,馬修‧魯迪', 'price': '253'}
+{'title': '經濟史的結構與變遷', 'publisher': '聯經出版公司', 'author': '道格拉斯‧諾思', 'price': '308'}
+{'title': '手機女孩不勉強時間管理法(超值加贈 多功能運用時間筆記本+我的美妙時光造型貼紙)', 'publisher': '大田', 'author': '趙庭嬅', 'price': '277'}
+{'title': '胡雪巖官場挺勢.縱橫商場', 'publisher': '智惠文化公司', 'author': '劉燁', 'price': '322'}
+{'title': '職場達人教你做事更有效率套書：早上3小時完成一天工作+別再為做不了決定抓狂+再見，拖延病!', 'publisher': '春光', 'author': '佐佐木正悟,箱田忠昭,齋藤茂太', 'price': '545'}
+{'title': '第一本阿里巴巴認證 淘寶開店聖經：網路行銷最佳實務，註冊、進貨、裝修、開店， 一本書給你全套解決方案', 'publisher': '大是文化', 'author': '劉珂', 'price': '315'}
+{'title': '不懂時間分配，忙到死也沒人理：{超圖解}時間管理學，花最少時間成本，做出最大成效', 'publisher': '方言文化', 'author': '梁佩玲', 'price': '221'}
+{'title': '翻轉時局：贏家4.0心思維', 'publisher': '智庫雲端', 'author': '謝秉吾,馬先右', 'price': '315'}
+{'title': '不懂財報，也能輕鬆選出賺錢績優股：五大關鍵數字力(隨書附贈32家真實公司財報卡)', 'publisher': '商周出版', 'author': '林明樟', 'price': '332'}
+{'title': 'BCG頂尖人才培育術：外商顧問公司讓人才發揮潛力、持續成長的祕密', 'publisher': '經濟新潮社', 'author': '木山聰,木村亮示', 'price': '284'}
+{'title': '一流開店方法論：向日本風格設計鬼才學習品牌╱採購╱陳列╱策展╱行銷╱服務的關鍵', 'publisher': 'PCuSER電腦人文化', 'author': '山田遊', 'price': '300'}
+{'title': '第三波數位革命：這是農夫、工人、廚師與藝術家……以及我，從邊陲地方發動的全球經濟革命', 'publisher': '大是文化', 'author': '史蒂夫‧凱斯', 'price': '277'}
+{'title': '銷售之神這樣讀空氣：一招冷場變熱、一句化解尷尬、五不二要……我這樣抓出話題，從老婆到客戶統統點頭', 'publisher': '大是文化', 'author': '松下周平(傳奇松下)', 'price': '221'}
+{'title': '發明學，改變世界：人類如何發明出手機、防感染導管、電腦搜尋系統、3D列印……等事物，改變我們的生活', 'publisher': '木馬文化', 'author': '姵根‧甘妮蒂', 'price': '300'}
+{'title': '性格的優勢：我是內向，你是外向，我們如何相處與工作?', 'publisher': '商周出版', 'author': '希薇亞．洛肯', 'price': '284'}
+{'title': '愈睡愈成功：揮別疲憊的生活，從充足睡眠開啟自信人生', 'publisher': '商業周刊', 'author': '雅莉安娜‧赫芬頓', 'price': '316'}
+{'title': '50優質潛力股', 'publisher': '天窗出版社有限公司', 'author': '龔成', 'price': '553'}
+{'title': '致富新世代2：科網君臨天下', 'publisher': '信報出版社', 'author': '郝承林', 'price': '558'}
+{'title': '里山資本主義：不做資本主義的奴隸，做里山的主人', 'publisher': '天下雜誌', 'author': 'NHK廣島採訪小組,藻谷浩介', 'price': '277'}
+{'title': '看透消費心理，選擇銷售策略', 'publisher': '奇盟子文化', 'author': '蕭思濃', 'price': '198'}
+{'title': '李其展的外匯交易致勝兵法(全新修訂版)', 'publisher': '法意', 'author': '李其展', 'price': '356'}
+{'title': '佑佑努力記3年從零存款到百萬', 'publisher': 'Smart智富', 'author': '林帝佑', 'price': '221'}
+{'title': '壽司幹嘛轉來轉去?2：管理會計入門──微利時代如何突破困境，搞懂數字，最快!最有效!(三版)', 'publisher': '大牌出版', 'author': '林總', 'price': '277'}
+{'title': '區塊鏈革命：中介消失的未來，改寫商業規則，興起社會變革，經濟大洗牌', 'publisher': '遠足文化', 'author': '劉勇,徐明星,段新星,郭大治', 'price': '332'}
+{'title': '激勵員工士氣，一句話就夠了：10秒說話術', 'publisher': '天下雜誌', 'author': '本鄉陽二', 'price': '229'}
+{'title': '機靈力和工作流程最佳管理力：快速學會讓工作無往不利的2大能力', 'publisher': '天下雜誌', 'author': '知的習慣探求舎', 'price': '229'}
+{'title': '富爸爸，有錢有理：掌握現金流象限，才能通往財富自由', 'publisher': '高寶', 'author': '羅勃特．T．清崎', 'price': '284'}
+{'title': '最新行銷王：Facebook廣告没有說的業績倍增活用術', 'publisher': '博碩', 'author': '岡弘和人', 'price': '315'}
+{'title': '領導者必先知道的事：松下幸之助給你的95則成功啟示', 'publisher': '天下雜誌', 'author': '松下幸之助/口述,松下政經塾/編', 'price': '261'}
+{'title': '不怕從零開始：朱嘉偉與他的GO車誌', 'publisher': '沐風文化', 'author': '朱嘉偉', 'price': '284'}
+{'title': '加法思考術：就算現在不行，最後一定會獲勝', 'publisher': '台灣東販', 'author': '林成之', 'price': '252'}
+{'title': '客訴這樣回，奧客變常客：各行各業都要學的零糾紛神回應', 'publisher': '台灣東販', 'author': '古谷治子,工藤ARISA', 'price': '252'}
+{'title': '為什麼頂級名牌不降價也能熱賣?', 'publisher': '台灣東販', 'author': '小山田裕哉', 'price': '288'}
+{'title': '應收帳款承購實務解析', 'publisher': '宏典文化', 'author': '陳冠志', 'price': '378'}
+{'title': '紅樓夢教你的十堂理財課：這次，不談愛情。讀懂書中的財富機鋒，結局大不同!', 'publisher': '時報出版', 'author': '朱國鳳', 'price': '237'}
+{'title': '這是你的團隊，你會怎麼帶?：部屬為什麼不照我意思行動?怎麼改變? 管理者必學的行為分析技術', 'publisher': '大是文化', 'author': '島宗理', 'price': '284'}
+{'title': '指尖下的大數據：運用Google Analytics發掘行動裝置裡的無限商機', 'publisher': '天下文化', 'author': '曾瀚平,鄭江宇', 'price': '277'}
+{'title': '不顛覆，就淘汰：矽谷創業教練教你創新、改造、進化', 'publisher': '天下文化', 'author': '薩米特', 'price': '277'}
+{'title': '新一代購物網站TWE-Commerce架設與管理 (第五版)附光碟', 'publisher': '上奇資訊', 'author': '梁益祥(Oldpa)', 'price': '522'}
+{'title': '投資學：基礎與應用(10版)', 'publisher': '華泰文化', 'author': 'Alan J. Marcus,Alex Kane,Zvi Bodie', 'price': '494'}
+{'title': '財務管理(4版)', 'publisher': '華泰文化', 'author': 'Bradford  D. Jordan,Jeffrey F. Jaffe,Randolph W. Westerfield,Stephen A. Ross', 'price': '798'}
+{'title': '台股大行情就是這樣抓!：從週期循環鑑往知來 掌握股市波段走勢', 'publisher': '聚財資訊', 'author': '杜金龍', 'price': '702'}
+{'title': '沒有漂亮學歷，你也能像菁英一樣工作：52個關鍵tips菁英職場工作術，小公司到一流大企業都適用', 'publisher': '八方', 'author': 'Zun Zun', 'price': '253'}
+{'title': '網路行銷懶人包：影片、直播、貼文、圖片、故事，一次搞懂不見面就成交的內容行銷術!(附光碟DVD)', 'publisher': '碁峰', 'author': '劉奶爸', 'price': '284'}
+{'title': '富足世界不是夢：讓貧窮去逃亡吧!(3版)', 'publisher': '五南', 'author': '穆罕默德‧尤努斯', 'price': '342'}
+{'title': 'Apple教我的工作方法：200個讓蘋果店員也推薦的Mac高效率活用術', 'publisher': 'PCuSER電腦人文化', 'author': '林子威', 'price': '269'}
+{'title': '不上班，你會更快樂嗎?跟著10位哲學家找到工作的意義', 'publisher': '台灣角川', 'author': '小川仁志', 'price': '221'}
+{'title': '當你有致富計劃，貧窮就無法趁虛而入：完全戰勝貧窮的15個致富策略', 'publisher': '寫憶文化創意有限公司', 'author': '張方駿', 'price': '270'}
+{'title': '謝文憲觀點：最具影響力的職場大師套書', 'publisher': '春光', 'author': '謝文憲', 'price': '945'}
+{'title': '精實企業：高績效組織如何達成創新規模化', 'publisher': '歐萊禮', 'author': 'Barry O’Reilly,Jez Humble,Joanne Molesky', 'price': '428'}
+{'title': 'Google、PPT、Excel的 故事.卡片簡報術：超業、TED演講者、賈伯斯都用這4個步驟， 說服每個人!', 'publisher': '大樂文化', 'author': '家弓正彥', 'price': '229'}
+{'title': '每天早上5分鐘，建立你的 筆記清單：解決常常出錯、延遲、忙不過來的人， 提高3倍效率的五十個提案!', 'publisher': '大樂文化', 'author': '吉山勇樹', 'price': '205'}
+{'title': '挑戰顧客，就能成交：讓顧客不只說YES，還充滿感激的B2B銷售術', 'publisher': '商業周刊', 'author': '布蘭特‧亞當森,馬修‧迪克森', 'price': '269'}
+{'title': '銷售部門培訓遊戲綜合本', 'publisher': '憲業', 'author': '任賢旺,邱世文', 'price': '378'}
+{'title': '壽司幹嘛轉來轉去?：財報快易通──夢想如何創造利潤，創業家、投資人不可不知的財務知識', 'publisher': '大牌出版', 'author': '林總', 'price': '253'}
+{'title': '2017全球豪宅地圖', 'publisher': '樺舍文化', 'author': '樺舍文化廣告部編輯群', 'price': '269'}
+{'title': '不上班也有錢：33歲開始Winnie散漫遊', 'publisher': '金尉股份有限公司', 'author': '曾琬鈴', 'price': '284'}
+{'title': '到處都能學經濟：從哈利波特、唐頓莊園到滾石樂團，流行告訴你經濟成長其實很簡單!', 'publisher': '時報出版', 'author': '約翰．譚姆尼', 'price': '284'}
+{'title': '消滅爛演說：說動人心，新手老手都上手的大魚簡報術', 'publisher': '美商麥格羅‧希爾', 'author': '古斯‧穆里洛,羅伯特‧奇里恩,肯尼‧阮,路克‧瓊斯', 'price': '332'}
+{'title': '管理要智慧而非知識：向古人借智慧', 'publisher': '商鼎', 'author': '張威龍', 'price': '387'}
+{'title': '思考術+心理學套書組(福爾摩斯思考術——讓思考更清晰、見解更深入的心智策略+騙局——為什麼聰明人容易上當?)', 'publisher': '商周出版', 'author': '瑪莉亞．柯妮可娃', 'price': '624'}
+{'title': '「凶宅」裁判之動向與評析：以出賣人瑕疵擔保為中心', 'publisher': '翰蘆', 'author': '黃靖媛', 'price': '285'}
+{'title': '學會說話技巧套書：克服害羞輕鬆說話+零誤解說話法+開口5句話，突破聽眾心防的動人簡報術', 'publisher': '春光', 'author': '五十嵐健,平木典子,麻生顕太郎', 'price': '540'}
+{'title': 'CCIM創富之路：11×2不動產達人的致勝秘密', 'publisher': '永然', 'author': '書品文化/製作,社團法人台灣不動產投資協會/著', 'price': '288'}
+{'title': '為什麼非要創新不可：影響未來的36個研發故事', 'publisher': '聯合報', 'author': '陳皓嬿/採訪撰稿', 'price': '288'}
+{'title': '紅隊測試：戰略級團隊與低容錯組織如何靠假想敵修正風險、改善假設?', 'publisher': '大寫出版', 'author': '米卡．岑科', 'price': '300'}
+{'title': '店長公神奇經營寶典：原來做生意這樣簡單', 'publisher': '白象文化', 'author': '徐靖普', 'price': '221'}
+{'title': '今治毛巾的美學：透過設計力、文創力，使瀕死傳統產業重生的奇蹟故事', 'publisher': '商業周刊', 'author': '佐藤可士和,四國毛巾同業公會', 'price': '269'}
+{'title': '交易者的修練套書(投機者的撲克+作手)', 'publisher': '大牌出版', 'author': '壽江,扁蟲魚', 'price': '630'}
+{'title': '現代兵法，賽局理論套書(漫畫 賽局理論，解決問題最簡單的方法+所有問題，都是一場賽局)', 'publisher': '大牌出版', 'author': '川西諭', 'price': '474'}
+{'title': '求職成功祕訣：如何快速學好求職應徵必備要件', 'publisher': '萬人', 'author': 'Dr. Wei/主編', 'price': '144'}
+{'title': '搶進美食街，年賺1,000萬', 'publisher': '時報出版', 'author': '張志誠', 'price': '324'}
+{'title': '想成為一流，就學習一流人士', 'publisher': '晨星', 'author': '海老一宏', 'price': '252'}
+{'title': '思考致富', 'publisher': '新BOOKHOUSE', 'author': '陸京夫', 'price': '243'}
+{'title': '企業概論(11版)', 'publisher': '華泰文化', 'author': 'James M. McHugh,Susan M. McHugh,William G. Nickels', 'price': '513'}
+{'title': '管理學：基礎實務與個案解析(3版)', 'publisher': '華泰文化', 'author': '李文瑞,王仕茹,黃恆獎', 'price': '608'}
+{'title': '壽險達人：推銷之神原一平祕技', 'publisher': '新BOOKHOUSE', 'author': '陸京夫', 'price': '270'}
+{'title': '交辦的態度 為什麼好的指令可讓「團隊奮起」， 而一句批評卻讓部屬們「沉默不語」?', 'publisher': '大樂文化', 'author': '吉田幸弘', 'price': '221'}
+{'title': '投資進化論：揭開投腦不理性的真相', 'publisher': '寰宇', 'author': '傑森．茲威格', 'price': '395'}
+{'title': '[零‧秒‧思‧考] 世界上最簡單的A4心智整理術：只要1分鐘，腦袋跟心靈都清爽了!', 'publisher': '邦聯文化', 'author': '赤羽雄二', 'price': '221'}
+{'title': '二十一世紀當責式管理聖經套書組(當責、賦權、賦能)', 'publisher': '商周出版', 'author': '張文隆', 'price': '956'}
+{'title': '心智圖學習法套書4 (案例解析!超高效心智圖法入門 + 用心智圖法開發孩子的左右腦)', 'publisher': '商周出版', 'author': '孫易新,王心怡', 'price': '553'}
+{'title': '圖解：機率‧統計【全新修訂版】', 'publisher': '積木', 'author': '竹原一彰,鈴木香織', 'price': '237'}
+{'title': '牛津人的30堂獨立思考與精準表達課', 'publisher': '商周出版', 'author': '岡田昭人', 'price': '284'}
+{'title': '新創募資教戰：如何讓投資人不想錯過你', 'publisher': 'PCuSER電腦人文化', 'author': '李偉俠', 'price': '269'}
+{'title': '行銷，說出故事力：傳遞理念&商品價值的49個感召法則(暢銷增訂版)', 'publisher': '雅書堂', 'author': '張宏裕', 'price': '236'}
+{'title': '中國經濟底氣', 'publisher': '財大出版社', 'author': '陳琳琳', 'price': '385'}
+{'title': '擴增時代', 'publisher': '財團法人台灣金融研訓院', 'author': 'JP‧藍格斯瓦米,安迪‧拉克,布雷特‧金恩,艾力克斯‧萊特曼', 'price': '425'}
+{'title': '解讀中國大陸ICT產業供應鏈商機', 'publisher': '外貿協會', 'author': '外貿協會', 'price': '450'}
+{'title': '歷久彌堅：理性與感性的傳承實務', 'publisher': '三民', 'author': '吳郁隆,李潤之,林瓊瀛,洪連盛,游明德,蔡朝安,許祺昌,郭宗銘,黃世鈞', 'price': '836'}
+{'title': '承先啟後：利豐馮氏邁向110週年', 'publisher': '三聯', 'author': '馮邦彥', 'price': '419'}
+{'title': '告訴你連前輩都不知道的職場密技套書', 'publisher': '春光', 'author': '內海正人,千田琢哉,小倉廣', 'price': '563'}
+{'title': '京都大學直傳!「思考力×學習力」套書', 'publisher': '奇光出版', 'author': 'SE編輯部,山極壽一', 'price': '405'}
+{'title': '求職面試無往不利.錄取絕招', 'publisher': '華文鼎文化', 'author': '高明', 'price': '259'}
+{'title': '賭客信條：一門源自賭博的科學', 'publisher': '海鴿', 'author': '孫惟微', 'price': '253'}
+{'title': '自我介紹的技術：讓內向、害羞、沒有自信都變成優點!?18秒，3句話，輕鬆打造自己的「賣點」，讓每個人都喜歡我!', 'publisher': '光現出版', 'author': '橫川裕之', 'price': '237'}
+{'title': '數位創業聖經', 'publisher': '策馬天下', 'author': '廖建鈜', 'price': '411'}
+{'title': '你認識誰，決定你是誰?：支持你成功的12種人', 'publisher': '菁品文化', 'author': '賀斐', 'price': '253'}
+{'title': '一本書讀懂智能家居', 'publisher': '四塊玉文創', 'author': '海天電商金融研究中心', 'price': '288'}
+{'title': '下班後默默學會的致富寶典', 'publisher': '茉莉出版社', 'author': '吳勝威', 'price': '252'}
+{'title': '開啟財富與成功之門的一把萬能鑰匙', 'publisher': '華志文化', 'author': '查爾斯‧哈奈爾', 'price': '225'}
+{'title': '35歲開始，多空雙賺月入30萬', 'publisher': '茉莉出版社', 'author': '張凱文', 'price': '270'}
+{'title': '老闆不教默默學會的創業寶典', 'publisher': '茉莉出版社', 'author': '張凱文', 'price': '252'}
+{'title': '畢業5年靠ETF存300張股票', 'publisher': '茉莉出版社', 'author': '張凱文', 'price': '252'}
+{'title': '超級業務員默默在做的33件事', 'publisher': '茉莉出版社', 'author': '李群騰', 'price': '252'}
+{'title': '6點準時下班', 'publisher': '茉莉出版社', 'author': '劉國昌', 'price': '252'}
+{'title': '45歲前買房，實現我的居住正義', 'publisher': '茉莉出版社', 'author': '吳勝威', 'price': '252'}
+{'title': '賓士之道 奔馳未來：為頂尖產品打造極致顧客體驗', 'publisher': '美商麥格羅‧希爾', 'author': '約瑟夫．米其里', 'price': '300'}
+{'title': 'APP之繼承：以APP開發創業的故事', 'publisher': '城邦印書館', 'author': '林廣維', 'price': '216'}
+{'title': '超圖解 經濟大入門', 'publisher': '楓書坊', 'author': '平野和之', 'price': '221'}
+{'title': '日本行銷冠軍原一平', 'publisher': '智惠文化公司', 'author': '高樓', 'price': '269'}
+{'title': '星巴克、宜得利獲利10倍的訂價模式：為什麼訂高價，買氣卻更好?該如何便宜賣，還能賺更多?', 'publisher': '大樂文化', 'author': '千賀秀信', 'price': '237'}
+{'title': '企業需要的創新地圖：翻新商業模式的真實故事', 'publisher': '資策會產業情報研究所', 'author': '周樹林,姜漢儀,彭采薇,王義智,陳泱璇', 'price': '570'}
+{'title': '寫給PM、UX與企劃人員看的設計方法：打造使用者喜愛的創新產品與服務設計', 'publisher': '果禾文化', 'author': 'Vijay Kumar', 'price': '618'}
+{'title': '半導體工廠：設備、材料、製程及提升產業復興的處方籤', 'publisher': '世茂', 'author': '菊地正典', 'price': '253'}
+{'title': '世界上最聰明的地方：從鏽帶到智帶，看智力共享如何引領全球鏽帶城市聰明轉型', 'publisher': '寶鼎', 'author': '佛萊德‧貝克,安東尼‧范艾格特梅爾', 'price': '308'}
+{'title': '創霸養成：國際創意顧問教你把白日夢變白花花的銀子', 'publisher': '三采', 'author': '艾力克斯‧佩羅,馬丁‧阿摩', 'price': '284'}
+{'title': '兵法MBA系列：戰略縱橫', 'publisher': '藍天圖書', 'author': '劉學郁', 'price': '351'}
+{'title': '經濟學：李宜豐教學筆記', 'publisher': '財團法人台灣金融研訓院', 'author': '李宜豐', 'price': '931'}
+{'title': '評價與風險模型：李宜豐教學筆記', 'publisher': '財團法人台灣金融研訓院', 'author': '李宜豐', 'price': '931'}
+{'title': '結果，立刻去做的人得到一切', 'publisher': '方智', 'author': '藤由達藏', 'price': '205'}
+{'title': '管理你的慌張：「慌」能激發鬥志，也會壞事， 所以要管理，這是經醫學證實有用的臨場絕招', 'publisher': '大是文化', 'author': '西多昌規', 'price': '252'}
+{'title': '20歲沒錢，正常；30歲沒錢，可能家境不好；40歲沒錢，自己找原因：70位世界富豪教你成功致富的關鍵', 'publisher': '好事文化事業出版社', 'author': '歐陽策', 'price': '270'}
+{'title': '解密中國跨境電商', 'publisher': '經瑋', 'author': '呂建毅', 'price': '428'}
+{'title': 'Social Issues of Advertising', 'publisher': '香港城市大學', 'author': 'Kara CHAN', 'price': '941'}
+{'title': '對了，來賣星星吧!如何在「難銷時代」創造新的商業模式?', 'publisher': '台灣角川', 'author': '永井孝尚', 'price': '221'}
+{'title': '執著的人不畏懼被改變：從扮家家酒到五星級飯店管理', 'publisher': '健行', 'author': '孟孝慶', 'price': '221'}
+{'title': '富不是命定，而是習性使然 2：脫貧致富的關鍵，不在學歷和努力，而是個性和習性', 'publisher': '智言館', 'author': '狄驤', 'price': '210'}
+{'title': '有問題，才有創新：12種解決難題的商業思考法', 'publisher': '先覺', 'author': '伊恩．亞特金森', 'price': '205'}
+{'title': '歐盟大麻煩：世界第一大經濟體分裂，全球大蕭條即將再臨?', 'publisher': '好優文化', 'author': '羅傑‧布特爾', 'price': '356'}
+{'title': '10小時速成!東大教授教你用得到的經濟學', 'publisher': '先覺', 'author': '井堀利宏', 'price': '221'}
+{'title': '我買雪球組，熊出沒照賺87% 特別加贈版：2017年最新倉儲股名單及選股策略大公開', 'publisher': '大是文化', 'author': '溫國信', 'price': '284'}
+{'title': '頂尖人士的職場武器 99%人忽略的1%領導訣竅!', 'publisher': '楓書坊', 'author': '河野英太郎', 'price': '221'}
+{'title': '走向世界的菁英養成教室：國際觀入門的九堂課', 'publisher': '晨星', 'author': '福原正大', 'price': '261'}
+{'title': '每個員工都重要：把員工擺第一，關愛猶如家人，你會擁有超凡力量', 'publisher': '晨星', 'author': '拉吉‧西索迪亞,鮑勃‧查普曼', 'price': '270'}
+{'title': '豬隊友也能化身神團隊!：好主管一定要懂的OJT在職訓練術', 'publisher': '好優文化', 'author': '松尾睦/監修', 'price': '253'}
+{'title': '未竟之業：為何我們無法兼顧所有?', 'publisher': '悅知文化', 'author': '安‧瑪莉‧史勞特', 'price': '300'}
+{'title': 'FinTech金融科技聖經：全球86位FinTech先驅，第一手公開「金融科技做什麼?怎麼做?」', 'publisher': '商業周刊', 'author': '亞諾‧巴伯斯,蘇珊‧契斯蒂', 'price': '379'}
+{'title': '量化投資王：定量策略大師讓投資變簡單', 'publisher': '經瑋', 'author': 'Jan Rohrbacher,Zdenek Zanka,周宏恩', 'price': '428'}
+{'title': '史上最強!LINE動態貼圖：設計、行銷、經營必殺技', 'publisher': '博碩', 'author': '吳宜瑾', 'price': '270'}
+{'title': '金融市場概論(第五版)', 'publisher': '雙葉書廊', 'author': '黃志典', 'price': '561'}
+{'title': '晶片發展趨勢與廠商課題', 'publisher': '拓墣科技', 'author': '拓墣產業研究所', 'price': '5700'}
+{'title': '贏家的邏輯：《孫子兵法》扭轉人生的關鍵智慧，連比爾‧蓋茲、德川家康都受益!', 'publisher': '野人', 'author': '田口佳史', 'price': '253'}
+{'title': '活用反彈波技術分析', 'publisher': '聚財資訊', 'author': '賴宣名(羅威)', 'price': '343'}
+{'title': '無印良品為什麼在全世界大受歡迎?：經營策略、展店技巧、商品開發、人才培育等一次大公開', 'publisher': '天下文化', 'author': '松井忠三', 'price': '277'}
+{'title': '創業參謀：創業贏家的基本方略', 'publisher': '天下雜誌', 'author': '巫立宇,董紹波', 'price': '205'}

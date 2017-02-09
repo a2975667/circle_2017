@@ -1,0 +1,12 @@
+what can be improved?
+-> can we modular more?
+-> using list to select operation?
+-> error checking?
+-> better printing?
+
+hw:
+try to add some functions
+
+example:
+import math
+math.pow(3,2) #returns 9

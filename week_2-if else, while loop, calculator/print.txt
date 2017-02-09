@@ -1,0 +1,484 @@
+#----------------------------------#
+### ==> 1_hello.py <== ###
+#----------------------------------#
+print ("Hello World!")
+
+
+#----------------------------------#
+### ==> 2_hello_2.py <== ###
+#----------------------------------#
+print ("Hello World!")
+print ("§A¦n!")
+print ("Apple and banana")
+print (3+4)
+
+
+#----------------------------------#
+### ==> 3_variable.py <== ###
+#----------------------------------#
+count = 10
+x = 6; y = 3
+x, y = 7, 9
+s = "Hello!"
+m = "4"
+print (count)
+print (x + 7)
+print ("x= " + str(x))
+print ("y= " + str(y))
+print ("-------------")
+print ("s is type: "+ str(type(s)))
+print ("x is type: " + str(type(x)))
+print ("m is type: "+ str(type(m)))
+print ("m is type: "+ str(type(eval(m))))
+
+
+
+#----------------------------------#
+### ==> 4_input.py <== ###
+#----------------------------------#
+name = input("Name? ")
+print ("Hello " + name)
+
+
+#----------------------------------#
+### ==> calc_1.py <== ###
+#----------------------------------#
+#This is where the program starts
+print ("Welcome to calc :)")
+print ("You can: sum, sub, muti, div, factor, compare")
+action = input("what do you want to perform? ")
+
+print (action)
+
+
+#----------------------------------#
+### ==> calc_2.py <== ###
+#----------------------------------#
+def welcomeMsg():
+    print ("Welcome to calc :)")
+    print ("You can: sum, sub, muti, div, factor, compare")
+    action = input("what do you want to perform? ")
+    return action
+
+# this is where the program starts
+action = welcomeMsg()
+print (action)
+
+
+#----------------------------------#
+### ==> calc_3.py <== ###
+#----------------------------------#
+def welcomeMsg():
+    print ("Welcome to calc :)")
+    print ("You can: sum, sub, muti, div, factor, compare")
+    action = input("what do you want to perform? ")
+    return action
+
+# this is where the program starts
+action = welcomeMsg()
+
+if (action != "compare"):
+    pass
+else:
+    print ("do sth")
+
+
+#----------------------------------#
+### ==> calc_4.py <== ###
+#----------------------------------#
+def welcomeMsg():
+    print ("Welcome to calc :)")
+    print ("You can: sum, sub, muti, div, factor, compare")
+    action = input("what do you want to perform? ")
+    return action
+
+# this is where the program starts
+action = welcomeMsg()
+
+if (action != "compare"):
+    x = input("First number: ")
+    y = input("Second number: ")
+
+    print (x + y)
+
+    # why is this wrong?
+    # you need to 'eval'
+    # https://docs.python.org/2/library/functions.html#eval
+    '''
+    x = eval(x)
+    y = eval(y)
+    print (x + y)
+    '''
+
+else:
+    print ("do sth")
+
+
+#----------------------------------#
+### ==> calc_5.py <== ###
+#----------------------------------#
+def welcomeMsg():
+    print ("Welcome to calc :)")
+    print ("You can: sum, sub, muti, div, factor, compare")
+    action = input("what do you want to perform? ")
+    return action
+
+# this is where the program starts
+action = welcomeMsg()
+
+if (action != "compare"):
+    x = eval(input("First number: "))
+    y = eval(input("Second number: "))
+
+    if (action == "sum"):
+        print (x + " + " + y + " = " + (x+y))
+
+        # why wrong? again, type!
+        # print (str(x) + " + " + str(y) + " = " + str(x+y))
+        
+else:
+    print ("do sth")
+
+
+#----------------------------------#
+### ==> calc_6.py <== ###
+#----------------------------------#
+def welcomeMsg():
+    print ("Welcome to calc :)")
+    print ("You can: sum, sub, muti, div, factor, compare")
+    action = input("what do you want to perform? ")
+    return action
+
+# this is where the program starts
+action = welcomeMsg()
+
+if (action != "compare"):
+    x = eval(input("First number: "))
+    y = eval(input("Second number: "))
+
+    if (action == "sum"):
+        print (str(x) + " + " + str(y) + " = " + str(x+y))
+
+    elif (action == "sub"):
+        print (str(x) + " - " + str(y) + " = " + str(x-y))
+
+    elif (action == "muti"):
+        print (str(x) + " * " + str(y) + " = " + str(x*y))
+
+    elif (action == "div"):
+        pass
+        #practice, remember special case
+
+    elif (action == "factor"):
+        print ("do factor")
+        
+    else:
+        print ("cannot define action.")
+        
+else:
+    print ("do sth")
+
+
+#----------------------------------#
+### ==> calc_7.py <== ###
+#----------------------------------#
+def welcomeMsg():
+    print ("Welcome to calc :)")
+    print ("You can: sum, sub, muti, div, factor, compare")
+    action = input("what do you want to perform? ")
+    return action
+
+# this is where the program starts
+action = welcomeMsg()
+
+if (action != "compare"):
+    x = eval(input("First number: "))
+    y = eval(input("Second number: "))
+
+    if (action == "sum"):
+        print (str(x) + " + " + str(y) + " = " + str(x+y))
+
+    elif (action == "sub"):
+        print (str(x) + " - " + str(y) + " = " + str(x-y))
+
+    elif (action == "muti"):
+        print (str(x) + " * " + str(y) + " = " + str(x*y))
+
+    elif (action == "div"):
+        #answer
+        if (y == 0):
+            print ("y cannot be 0")
+        #print str(x) + " / " + str(y) + " = " + str(float(x)/float(y))
+        print (str(x) + " / " + str(y) + " = " + str(x/y))
+
+    elif (action == "factor"):
+        print ("do factor")
+        
+    else:
+        print ("cannot define action.")
+        
+else:
+    print ("do sth")
+
+
+#----------------------------------#
+### ==> calc_8.py <== ###
+#----------------------------------#
+def welcomeMsg():
+    print ("Welcome to calc :)")
+    print ("You can: sum, sub, muti, div, factor, compare")
+    action = input("what do you want to perform? ")
+    return action
+
+# this is where the program starts
+action = welcomeMsg()
+
+if (action != "compare"):
+    x = eval(input("First number: "))
+    y = eval(input("Second number: "))
+
+    if (action == "sum"):
+        print (str(x) + " + " + str(y) + " = " + str(x+y))
+
+    elif (action == "sub"):
+        print (str(x) + " - " + str(y) + " = " + str(x-y))
+
+    elif (action == "muti"):
+        print (str(x) + " * " + str(y) + " = " + str(x*y))
+
+    elif (action == "div"):
+        if (y == 0):
+            print ("y cannot be 0")
+        print (str(x) + " / " + str(y) + " = " + str(x/y))
+
+    elif (action == "factor"):
+        if (x % y == 0):
+            print (str(y) + " is a factor of " + str(x))
+        else:
+            print (str(y) + " is not a factor of " + str(x))
+        
+    else:
+        print ("cannot define action.")
+        
+else:
+    print ("do sth")
+
+
+            
+
+
+#----------------------------------#
+### ==> calc_9.py <== ###
+#----------------------------------#
+def welcomeMsg():
+    print ("Welcome to calc :)")
+    print ("You can: sum, sub, muti, div, factor, compare")
+    action = input("what do you want to perform? ")
+    return action
+
+def calculation(action, x, y):
+    if (action == "sum"):
+        print (str(x) + " + " + str(y) + " = " + str(x+y))
+        return (x+y)
+
+    elif (action == "sub"):
+        print (str(x) + " - " + str(y) + " = " + str(x-y))
+        return (x-y)
+
+    elif (action == "muti"):
+        print (str(x) + " * " + str(y) + " = " + str(x*y))
+        return (x*y)
+
+    elif (action == "div"):
+        if (y == 0):
+            print ("y cannot be 0")
+            return -1
+        print (str(x) + " / " + str(y) + " = " + str(x/y))
+        return (x/y)
+
+    elif (action == "factor"):
+        if (x % y == 0):
+            print (str(y) + " is a factor of " + str(x))
+            return -1
+        else:
+            print (str(y) + " is not a factor of " + str(x))
+            return -1
+        
+    else:
+        print ("cannot define action.")
+        return -1
+
+# this is where the program starts
+action = welcomeMsg()
+
+if (action != "compare"):
+    x = eval(input("First number: "))
+    y = eval(input("Second number: "))
+
+    res = calculation(action, x, y)
+
+else:
+    act1 = input("First action: ")
+    x1 = eval(input("First number: "))
+    y1 = eval(input("Second number: "))
+    act2 = input("Second action: ")
+    x2 = eval(input("First number: "))
+    y2 = eval(input("Second number: "))
+
+    res1 = calculation(act1, x1, y1)
+    res2 = calculation(act2, x2, y2)  
+    
+
+
+#----------------------------------#
+### ==> calc_final.py <== ###
+#----------------------------------#
+def welcomeMsg():
+    print ("Welcome to calc :)")
+    print ("You can: sum, sub, muti, div, factor, compare")
+    action = input("what do you want to perform? ")
+    return action
+
+def calculation(action, x, y):
+    if (action == "sum"):
+        print (str(x) + " + " + str(y) + " = " + str(x+y))
+        return (x+y)
+
+    elif (action == "sub"):
+        print (str(x) + " - " + str(y) + " = " + str(x-y))
+        return (x-y)
+
+    elif (action == "muti"):
+        print (str(x) + " * " + str(y) + " = " + str(x*y))
+        return (x*y)
+
+    elif (action == "div"):
+        if (y == 0):
+            print ("y cannot be 0")
+            return -1
+        print (str(x) + " / " + str(y) + " = " + str(x/y))
+        return (x/y)
+
+    elif (action == "factor"):
+        if (x % y == 0):
+            print (str(y) + " is a factor of " + str(x))
+            return -1
+        else:
+            print (str(y) + " is not a factor of " + str(x))
+            return -1
+        
+    else:
+        print ("cannot define action.")
+        return -1
+
+###################################
+# this is where the program starts#
+###################################
+
+action = welcomeMsg()
+
+if (action != "compare"):
+    x = eval(input("First number: "))
+    y = eval(input("Second number: "))
+
+    res = calculation(action, x, y)
+
+else:
+    act1 = input("First action: ")
+    x1 = eval(input("First number: "))
+    y1 = eval(input("Second number: "))
+    act2 = input("Second action: ")
+    x2 = eval(input("First number: "))
+    y2 = eval(input("Second number: "))
+
+    res1 = calculation(act1, x1, y1)
+    res2 = calculation(act2, x2, y2)
+
+    if (res1 == -1 or res2==-1):
+        print ("one of your action cannot be compared!")
+    else: #Q: what happens if there is no else?
+        if (res1 > res2):
+            print (str(res1) + " is greater than " + str(res2))
+        elif (res1 < res2):
+            print (str(res1) + " is smaller than " + str(res2))
+        else:
+            print ("both operation equals " + str(res1))
+
+
+#----------------------------------#
+### ==> calc_while.py <== ###
+#----------------------------------#
+def welcomeMsg():
+    print ("Welcome to calc :)")
+    print ("You can: sum, sub, muti, div, factor, compare")
+    action = input("what do you want to perform? ")
+    return action
+
+def calculation(action, x, y):
+    if (action == "sum"):
+        print (str(x) + " + " + str(y) + " = " + str(x+y))
+        return (x+y)
+
+    elif (action == "sub"):
+        print (str(x) + " - " + str(y) + " = " + str(x-y))
+        return (x-y)
+
+    elif (action == "muti"):
+        print (str(x) + " * " + str(y) + " = " + str(x*y))
+        return (x*y)
+
+    elif (action == "div"):
+        if (y == 0):
+            print ("y cannot be 0")
+            return -1
+        print (str(x) + " / " + str(y) + " = " + str(x/y))
+        return (x/y)
+
+    elif (action == "factor"):
+        if (x % y == 0):
+            print (str(y) + " is a factor of " + str(x))
+            return -1
+        else:
+            print (str(y) + " is not a factor of " + str(x))
+            return -1
+        
+    else:
+        print ("cannot define action.")
+        return -1
+
+###################################
+# this is where the program starts#
+###################################
+
+while True:
+    action = welcomeMsg()
+
+    if (action != "compare"):
+        x = eval(input("First number: "))
+        y = eval(input("Second number: "))
+
+        res = calculation(action, x, y)
+
+    else:
+        act1 = input("First action: ")
+        x1 = eval(input("First number: "))
+        y1 = eval(input("Second number: "))
+        act2 = input("Second action: ")
+        x2 = eval(input("First number: "))
+        y2 = eval(input("Second number: "))
+
+        res1 = calculation(act1, x1, y1)
+        res2 = calculation(act2, x2, y2)
+
+        if (res1 == -1 or res2==-1):
+            print ("one of your action cannot be compared!")
+        else: #Q: what happens if there is no else?
+            if (res1 > res2):
+                print (str(res1) + " is greater than " + str(res2))
+            elif (res1 < res2):
+                print (str(res1) + " is smaller than " + str(res2))
+            else:
+                print ("both operation equals " + str(res1))
+        
+    if (input("Continue? (Y/N): ") != 'Y'):
+        break
