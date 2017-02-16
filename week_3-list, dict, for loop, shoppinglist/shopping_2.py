@@ -1,7 +1,6 @@
 def welcome_msg():
     print("Welcome!")
-    print("What is your name?")
-    name = input()
+    name = input("What is your name? ")
     return name
 
 def print_items(name, item_dict):

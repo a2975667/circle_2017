@@ -1,7 +1,6 @@
 def welcome_msg():
     print("Welcome!")
-    print("What is your name?")
-    name = input()
+    name = input("What is your name? ")
     return name
 
 def print_items(name, item_dict):
@@ -16,7 +15,7 @@ def add_to_cart(cart_list, item_dict):
         item = input("Add item? ")
         if (item == "no"):
             break
-        elif item in item_dict:
+        elif (item in item_dict):
             cart_list.append(item)
         else:
             print("Sorry, we don't sell " + item + " today. Please re-enter.")
